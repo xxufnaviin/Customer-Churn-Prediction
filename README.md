@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ``` 
 ##### 5. Open the jupyter notebook 
 ```bash
-jupyter notebook notebook\\customer_churn.ipynb
+jupyter notebook notebook\customer_churn.ipynb
 ```
 
 
